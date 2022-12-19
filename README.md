@@ -1,1 +1,1 @@
-# Simple-Chat-Application---Socket-Programming
+# Simple Chat Application - Socket Programming
